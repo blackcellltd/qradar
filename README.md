@@ -2,6 +2,8 @@
 This extension/modification puts a new refresh icon to the offenses menu and others. With right click on the extra button you can set the auto-refresh interval.
 This script can be useful if you are actively monitoring the Offenses tab.
 
+![Alt text](qradar-oar-screenshot.JPG?raw=true "Offense tab auto-refresh")
+
 Installation:
 
 Don't forget to make backup from the original files!

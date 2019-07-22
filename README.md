@@ -6,7 +6,13 @@ Installation:
 
 Don't forget to make backup from the original files!
 
-1. Copy the contents to the /opt/ folder and overwrite the files.
-2. Restart tomcat
-3. Refresh the page
+1. Copy the contents via SCP/SFTP to the /opt/ folder and overwrite the files.
+
+2. Refresh the page.
+
+Usage:
+
+Right-click on the additional refresh button and set the refresh interval. (min. 5 sec)
+
+Enjoy.
 
